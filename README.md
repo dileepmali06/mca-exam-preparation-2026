@@ -1,21 +1,17 @@
 # MCA Exam Preparation 2026
 
-This repository tracks my MCA exam preparation journey.
+This repository contains my MCA Semester 3 exam preparation notes and daily study progress.
 
-## Progress Log
+## Subjects
 
-### 18 June 2026
-#### Cloud Computing
-- Completed revision of Module 1
-- Revised Cloud Computing fundamentals
-- Studied Cloud Characteristics
-- Studied Cloud Service Models (IaaS, PaaS, SaaS)
-- Studied Cloud Deployment Models
-- Revised Benefits and Challenges of Cloud Computing
-- Prepared revision notes for exam preparation
+- Cloud Computing
+- Deep Learning
+- Professional Ethics
+- Business Mathematics
 
-### Goal
-- Complete MCA Semester III exam preparation
-- Revise all subjects before exams
-- Maintain a daily study log
+## Goal
+
+- Complete syllabus revision
+- Maintain daily study log
+- Prepare concise revision notes
 - Resume DSA and Development after exams
