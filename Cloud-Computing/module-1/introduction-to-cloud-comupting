@@ -1,0 +1,123 @@
+# Module 1 - Introduction to Cloud Computing
+
+## 1. Cloud Computing
+
+### Definition
+
+Cloud Computing is a technology that provides computing resources such as servers, storage, databases, networking, software, and applications over the Internet on demand.
+
+### Simple Meaning
+
+Cloud Computing me hume apna hardware kharidne ki zarurat nahi hoti. Hum internet ke through resources use karte hain aur jitna use karte hain utna hi pay karte hain.
+
+### Examples
+
+* Gmail
+* Google Drive
+* AWS
+* Microsoft Azure
+* Netflix
+* ChatGPT
+
+### Benefits
+
+* Cost Reduction
+* Scalability
+* High Availability
+* Flexibility
+* Global Access
+
+---
+
+## 2. Web 2.0
+
+### Definition
+
+Web 2.0 is the second generation of the web that allows users to create, share, and interact with content.
+
+### Examples
+
+* Facebook
+* YouTube
+* Instagram
+* Wikipedia
+
+### Benefits
+
+* User Participation
+* Collaboration
+* Social Networking
+* Content Sharing
+* Better User Experience
+
+---
+
+## 3. Cloud Computing Properties
+
+### Essential Characteristics
+
+#### On-Demand Self Service
+
+Users can access resources whenever needed without human intervention.
+
+#### Broad Network Access
+
+Services can be accessed from anywhere through the Internet.
+
+#### Resource Pooling
+
+Resources are shared among multiple users.
+
+#### Rapid Elasticity
+
+Resources can increase or decrease quickly based on demand.
+
+#### Measured Service
+
+Users pay only for what they use.
+
+---
+
+## 4. Virtualization
+
+### Definition
+
+Virtualization is a technology that creates multiple virtual machines on a single physical machine.
+
+### Example
+
+A physical server can run multiple virtual machines such as:
+
+* Ubuntu VM
+* Windows VM
+* Linux VM
+
+### Advantages
+
+* Better Resource Utilization
+* Cost Reduction
+* Scalability
+* Isolation
+* Easy Management
+
+### Hypervisor
+
+#### Type 1 Hypervisor
+
+Runs directly on hardware.
+
+Examples:
+
+* VMware ESXi
+* Hyper-V
+
+#### Type 2 Hypervisor
+
+Runs on top of an operating system.
+
+Examples:
+
+* VirtualBox
+* VMware Workstation
+
+---
