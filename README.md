@@ -5,9 +5,11 @@ This repository contains my MCA Semester 3 exam preparation notes and daily stud
 ## Subjects
 
 - Cloud Computing
+- Unix/Linux Programming
 - Deep Learning
 - Professional Ethics
 - Business Mathematics
+
 
 ## Goal
 
