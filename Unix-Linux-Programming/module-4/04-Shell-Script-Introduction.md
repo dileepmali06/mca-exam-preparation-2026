@@ -118,6 +118,10 @@ Esc
 chmod +x hello.sh
 ```
 
+``` bash
+chmod +x hello.sh // please understand
+```
+
 ------------------------------------------------------------------------
 
 # Execute Script
